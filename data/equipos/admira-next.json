@@ -1,5 +1,7 @@
 {
-  "sede": "barcelona",
+  "sede": "admira-next",
+  "nombre": "AdmiraNext",
+  "ciudad": "Barcelona",
   "equipos": [
     {
       "id": "admira-mac-01",

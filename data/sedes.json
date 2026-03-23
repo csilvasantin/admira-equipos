@@ -1,14 +1,44 @@
 {
   "sedes": [
     {
-      "id": "barcelona",
-      "nombre": "Admira Barcelona",
+      "id": "admira-next",
+      "nombre": "AdmiraNext",
+      "ciudad": "Barcelona",
+      "direccion": "",
+      "contacto": ""
+    },
+    {
+      "id": "admira-xtore",
+      "nombre": "AdmiraXtore",
+      "ciudad": "Barcelona",
+      "direccion": "",
+      "contacto": ""
+    },
+    {
+      "id": "admira-xperience",
+      "nombre": "AdmiraXperience",
+      "ciudad": "Barcelona",
+      "direccion": "",
+      "contacto": ""
+    },
+    {
+      "id": "admira-xpace",
+      "nombre": "AdmiraXpace",
+      "ciudad": "Barcelona",
+      "direccion": "",
+      "contacto": ""
+    },
+    {
+      "id": "admira-university",
+      "nombre": "Admira University",
+      "ciudad": "Barcelona",
       "direccion": "",
       "contacto": ""
     },
     {
       "id": "sitges",
       "nombre": "Admira Sitges",
+      "ciudad": "Sitges",
       "direccion": "",
       "contacto": ""
     }

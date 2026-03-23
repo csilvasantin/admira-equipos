@@ -2,14 +2,34 @@
 
 Inventario de ordenadores de las sedes de Admira, organizado por ubicación.
 
+## Sedes
+
+### Barcelona
+| Sede | Archivo |
+|---|---|
+| AdmiraNext | `data/equipos/admira-next.json` |
+| AdmiraXtore | `data/equipos/admira-xtore.json` |
+| AdmiraXperience | `data/equipos/admira-xperience.json` |
+| AdmiraXpace | `data/equipos/admira-xpace.json` |
+| Admira University | `data/equipos/admira-university.json` |
+
+### Sitges
+| Sede | Archivo |
+|---|---|
+| Admira Sitges | `data/equipos/sitges.json` |
+
 ## Estructura
 
 ```
 data/
-├── sedes.json              # Lista de sedes
+├── sedes.json                          # Registro de todas las sedes
 └── equipos/
-    ├── barcelona.json      # Equipos de Barcelona
-    └── sitges.json         # Equipos de Sitges
+    ├── admira-next.json                # AdmiraNext (Barcelona)
+    ├── admira-xtore.json               # AdmiraXtore (Barcelona)
+    ├── admira-xperience.json           # AdmiraXperience (Barcelona)
+    ├── admira-xpace.json               # AdmiraXpace (Barcelona)
+    ├── admira-university.json          # Admira University (Barcelona)
+    └── sitges.json                     # Admira Sitges
 ```
 
 ## Uso
