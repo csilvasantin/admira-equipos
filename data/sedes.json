@@ -1,0 +1,16 @@
+{
+  "sedes": [
+    {
+      "id": "barcelona",
+      "nombre": "Admira Barcelona",
+      "direccion": "",
+      "contacto": ""
+    },
+    {
+      "id": "sitges",
+      "nombre": "Admira Sitges",
+      "direccion": "",
+      "contacto": ""
+    }
+  ]
+}

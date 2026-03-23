@@ -1,0 +1,89 @@
+{
+  "sede": "barcelona",
+  "equipos": [
+    {
+      "id": "admira-mac-01",
+      "nombre_maquina": "Mac principal",
+      "tipo": "sobremesa",
+      "plataforma": "macOS",
+      "usuario": "Cesar",
+      "rol": "Coordinacion y automatizacion",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "admira-mac-02",
+      "nombre_maquina": "MacBookAir16",
+      "tipo": "portatil",
+      "plataforma": "macOS",
+      "usuario": "Carlos",
+      "rol": "Director General",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "admira-mac-03",
+      "nombre_maquina": "MacBookAir de Carla",
+      "tipo": "portatil",
+      "plataforma": "macOS",
+      "usuario": "Carla Rosa",
+      "rol": "Directora de Arte",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "admira-mac-04",
+      "nombre_maquina": "MacBookAirLuna",
+      "tipo": "portatil",
+      "plataforma": "macOS",
+      "usuario": "Luna Azul",
+      "rol": "Director Tecnico",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "admira-mac-05",
+      "nombre_maquina": "MacMini",
+      "tipo": "sobremesa",
+      "plataforma": "macOS",
+      "usuario": "Braulio Blanco",
+      "rol": "Director de Operaciones",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    },
+    {
+      "id": "admira-win-01",
+      "nombre_maquina": "PC auxiliar",
+      "tipo": "sobremesa",
+      "plataforma": "Windows",
+      "usuario": "Laboratorio",
+      "rol": "Pruebas y soporte",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "notas": ""
+    }
+  ]
+}
