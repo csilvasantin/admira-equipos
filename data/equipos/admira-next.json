@@ -5,17 +5,18 @@
   "equipos": [
     {
       "id": "admira-mac-01",
-      "nombre_maquina": "Mac principal",
+      "nombre_maquina": "MacMini",
       "tipo": "sobremesa",
       "plataforma": "macOS",
       "usuario": "Cesar",
       "rol": "Coordinacion y automatizacion",
       "specs": {
-        "procesador": "",
-        "ram": "",
-        "almacenamiento": ""
+        "procesador": "Apple M4",
+        "ram": "16 GB",
+        "almacenamiento": "500 GB SSD"
       },
-      "notas": ""
+      "tailscale": "100.74.101.14",
+      "notas": "Mac principal. Specs verificadas localmente el 2026-03-27. Tailscale online y activo"
     },
     {
       "id": "admira-mac-02",
@@ -61,21 +62,6 @@
       },
       "tailscale": "100.98.68.63",
       "notas": "Tailscale registrado pero offline desde hace 2d. No accesible por SSH local"
-    },
-    {
-      "id": "admira-mac-05",
-      "nombre_maquina": "MacMini",
-      "tipo": "sobremesa",
-      "plataforma": "macOS",
-      "usuario": "Braulio Blanco",
-      "rol": "Director de Operaciones",
-      "specs": {
-        "procesador": "Apple M4",
-        "ram": "16 GB",
-        "almacenamiento": "500 GB SSD"
-      },
-      "tailscale": "100.74.101.14",
-      "notas": "Specs verificadas el 2026-03-27. Tailscale online y activo"
     },
     {
       "id": "admira-mac-06",
