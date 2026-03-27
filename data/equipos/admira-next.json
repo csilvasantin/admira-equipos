@@ -29,7 +29,8 @@
         "ram": "16 GB",
         "almacenamiento": "251 GB SSD"
       },
-      "notas": "Specs verificadas por SSH el 2026-03-27"
+      "tailscale": "100.99.176.126",
+      "notas": "Specs verificadas por SSH el 2026-03-27. Tailscale reinstalado el 2026-03-27, pendiente de login"
     },
     {
       "id": "admira-mac-03",
@@ -43,7 +44,8 @@
         "ram": "",
         "almacenamiento": ""
       },
-      "notas": ""
+      "tailscale": "100.110.80.2",
+      "notas": "Tailscale registrado pero offline desde hace 2d. No accesible por SSH local"
     },
     {
       "id": "admira-mac-04",
@@ -57,7 +59,8 @@
         "ram": "",
         "almacenamiento": ""
       },
-      "notas": ""
+      "tailscale": "100.98.68.63",
+      "notas": "Tailscale registrado pero offline desde hace 2d. No accesible por SSH local"
     },
     {
       "id": "admira-mac-05",
@@ -71,7 +74,8 @@
         "ram": "16 GB",
         "almacenamiento": "500 GB SSD"
       },
-      "notas": "Specs verificadas el 2026-03-27"
+      "tailscale": "100.74.101.14",
+      "notas": "Specs verificadas el 2026-03-27. Tailscale online y activo"
     },
     {
       "id": "admira-mac-06",
@@ -85,7 +89,8 @@
         "ram": "16 GB",
         "almacenamiento": "500 GB SSD"
       },
-      "notas": "Descubierto por Bonjour y specs verificadas por SSH el 2026-03-27"
+      "tailscale": "100.101.192.1",
+      "notas": "Descubierto por Bonjour el 2026-03-27. Tailscale reinstalado, pendiente de login"
     },
     {
       "id": "admira-win-01",
@@ -99,7 +104,8 @@
         "ram": "",
         "almacenamiento": ""
       },
-      "notas": ""
+      "tailscale": "100.121.18.12",
+      "notas": "Nodo Tailscale 'admiratwin', offline desde hace 3h"
     }
   ]
 }
