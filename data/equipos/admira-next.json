@@ -74,6 +74,20 @@
       "notas": "Specs verificadas el 2026-03-27"
     },
     {
+      "id": "admira-mac-06",
+      "nombre_maquina": "MacBookProNegro14",
+      "tipo": "portatil",
+      "plataforma": "macOS",
+      "usuario": "Carlos Silva",
+      "rol": "Director General",
+      "specs": {
+        "procesador": "Apple M5",
+        "ram": "16 GB",
+        "almacenamiento": "500 GB SSD"
+      },
+      "notas": "Descubierto por Bonjour y specs verificadas por SSH el 2026-03-27"
+    },
+    {
       "id": "admira-win-01",
       "nombre_maquina": "PC auxiliar",
       "tipo": "sobremesa",
