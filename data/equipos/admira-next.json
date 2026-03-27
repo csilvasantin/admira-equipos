@@ -67,11 +67,11 @@
       "usuario": "Braulio Blanco",
       "rol": "Director de Operaciones",
       "specs": {
-        "procesador": "",
-        "ram": "",
-        "almacenamiento": ""
+        "procesador": "Apple M4",
+        "ram": "16 GB",
+        "almacenamiento": "500 GB SSD"
       },
-      "notas": ""
+      "notas": "Specs verificadas el 2026-03-27"
     },
     {
       "id": "admira-win-01",
