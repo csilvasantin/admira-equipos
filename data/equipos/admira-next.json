@@ -25,11 +25,11 @@
       "usuario": "Carlos",
       "rol": "Director General",
       "specs": {
-        "procesador": "",
-        "ram": "",
-        "almacenamiento": ""
+        "procesador": "Apple M4",
+        "ram": "16 GB",
+        "almacenamiento": "251 GB SSD"
       },
-      "notas": ""
+      "notas": "Specs verificadas por SSH el 2026-03-27"
     },
     {
       "id": "admira-mac-03",
