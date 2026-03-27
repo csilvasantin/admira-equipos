@@ -106,6 +106,21 @@
       },
       "tailscale": "100.121.18.12",
       "notas": "Nodo Tailscale 'admiratwin', offline desde hace 3h"
+    },
+    {
+      "id": "admira-mac-07",
+      "nombre_maquina": "MacBookAirNines",
+      "tipo": "portatil",
+      "plataforma": "macOS",
+      "usuario": "",
+      "rol": "",
+      "specs": {
+        "procesador": "",
+        "ram": "",
+        "almacenamiento": ""
+      },
+      "tailscale": "100.76.96.50",
+      "notas": "Descubierto en Tailscale el 2026-03-27. Offline 2d, sin acceso SSH. Usuario y specs pendientes"
     }
   ]
 }
